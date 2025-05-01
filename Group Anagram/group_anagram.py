@@ -9,4 +9,5 @@ for word in gpangram:
     else:
         mp[newword] = [word]
         
+        
 print(mp)
