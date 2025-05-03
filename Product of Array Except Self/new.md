@@ -6,3 +6,5 @@ so here what we are doing here,
     1. we creating a  left array and right array
     2. we are multiplying the left array with right array
     3. we are returning the results
+
+complexity is O(n) because just two of the loops are running
